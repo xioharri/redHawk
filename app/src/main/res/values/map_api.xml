@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--API Key is needed to authenticate requests and implement google maps API key was acquired from Google Cloud Platform-->
+<resources>
+    <string name="map_key" translatable="false">AIzaSyBzUsWqrqS271lnmGJU8DSY2Z3n4AQGbUY</string>
+</resources>
